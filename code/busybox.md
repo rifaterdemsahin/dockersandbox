@@ -14,6 +14,7 @@ To build and run this Dockerfile, follow these steps:
 
     ```bash
     docker build -t helloworld-busybox .
+    docker build -t my-docker-image -f busybox.dockerfile .
     ```
 
 3. **Run the Docker container**:
