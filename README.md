@@ -1,6 +1,3 @@
-Sure! Here's a sample README file for Docker Sandbox Testing with GitHub Codespaces:
-
-```markdown
 # Docker Sandbox Testing with GitHub Codespaces
 
 This repository provides a setup for testing Docker containers within GitHub Codespaces. It includes a basic configuration to get you started with running and testing Docker containers in a sandbox environment.
@@ -92,6 +89,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-Feel free to customize this README file to better fit your project's specific needs. If you need any more details or further assistance, just let me know!
